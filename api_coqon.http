@@ -1,0 +1,6 @@
+@api_coqon_HostAddress = http://localhost:5029
+
+GET {{api_coqon_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
